@@ -3,7 +3,7 @@ FROM golang:1.15 as BuildImage
 
 # Build binary
 WORKDIR /build
-COPY . .
+COPY /server .
 RUN go build .
 
 # Remove source and only keep binary build
