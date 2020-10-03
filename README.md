@@ -1,5 +1,7 @@
 # Presidenten with friends
 
+![Server Docker Image Testbuild](https://github.com/MeurillonGuillaume/presidents-with-friends/workflows/Docker%20Image%20Testbuild/badge.svg)
+
 TBC
 
 ## Presidenten rulebook
