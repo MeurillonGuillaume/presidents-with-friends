@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/presidents-with-friends/presidents-with-friends/server/wsserver"
+	"github.com/presidents-with-friends/presidents-with-friends-server/wsserver"
 	"github.com/sirupsen/logrus"
 )
 

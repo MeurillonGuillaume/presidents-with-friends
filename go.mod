@@ -1,4 +1,4 @@
-module github.com/presidents-with-friends/presidents-with-friends/server
+module github.com/presidents-with-friends/presidents-with-friends-server
 
 go 1.15
 

@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/presidents-with-friends/presidents-with-friends/server/game-asset/card"
+	"github.com/presidents-with-friends/presidents-with-friends-server/game-asset/card"
 )
 
 const (
