@@ -11,10 +11,10 @@ FROM scratch
 
 # Change dir & copy binary from build image
 WORKDIR /go/bin
-COPY --from=BuildImage /build/server .
+COPY --from=BuildImage /build/presidents-with-friends-server .
 
 # Expose port
 EXPOSE 42069
 
 # Launch server
-ENTRYPOINT [ "./server" ]
+ENTRYPOINT [ "./presidents-with-friends-server" ]
