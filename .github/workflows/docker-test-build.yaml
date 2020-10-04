@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the server image
-      run: docker build . --file server/Dockerfile --tag presidents-with-friends-server:build
+      run: docker build . --file Dockerfile --tag presidents-with-friends-server:build
